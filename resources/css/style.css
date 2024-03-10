@@ -1237,8 +1237,3 @@ h1.intro {
     display: flex;
     justify-content: center;
 }
-
-h2:hover {
-    color: var(--c-background);
-    -webkit-text-stroke-color: var(--c-black);
-}
